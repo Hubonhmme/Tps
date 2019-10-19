@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="roman.RomanNumberTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2019-10-19T15:01:34" hostname="ubuntuvdi02.sciences.lan" time="0.081">
+  <properties/>
+  <testcase name="toRomanKnownValues" classname="roman.RomanNumberTest" time="0.012"/>
+  <testcase name="onlyCapital" classname="roman.RomanNumberTest" time="0.001"/>
+  <testcase name="testOfAll" classname="roman.RomanNumberTest" time="0.027"/>
+  <testcase name="fromRomanEven" classname="roman.RomanNumberTest" time="0.002"/>
+  <testcase name="toRomanFlo" classname="roman.RomanNumberTest" time="0.003"/>
+  <testcase name="toRomanNeg" classname="roman.RomanNumberTest" time="0.01"/>
+  <testcase name="fromRomanKnownValues" classname="roman.RomanNumberTest" time="0.007"/>
+  <testcase name="testCapital" classname="roman.RomanNumberTest" time="0.001"/>
+  <testcase name="toRomanHigh" classname="roman.RomanNumberTest" time="0.0"/>
+  <testcase name="toRomanZero" classname="roman.RomanNumberTest" time="0.001"/>
+  <testcase name="fromRomanRep" classname="roman.RomanNumberTest" time="0.0"/>
+  <testcase name="fromRomanToMore" classname="roman.RomanNumberTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
